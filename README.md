@@ -46,7 +46,7 @@ This project involves the design, simulation, and implementation of a fully func
 - ModelSim and Intel Quartus Prime (Lite Edition)
 
 ### Installation and Usage
-1. Clone this repository and open the VHDL project in Quartus.
+1. Clone this repository and create a VHDL project in Quartus.
 2. Compile all components starting from `top.vhd`.
 3. Open programmer and run the project on the FPGA.
 4. Set switches `SW[7:0]` to input values.
