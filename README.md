@@ -6,14 +6,14 @@ This project involves the design, simulation, and implementation of a fully func
 ## Development
 ### Part 1: Structural Shell & Simulation Setup
 - Verified correct structural connectivity using ModelSim simulation with the following structure:
-`computer.vhd`
-   └ `cpu.vhd`
-        └ `control_unit.vhd`
-        └ `data_path.vhd`
-             └ `alu.vhd`
-   └ `memory.vhd`
-        └ `rom_128x8_sync.vhd`
-        └ `rw_96x8_sync.vhd`
+-`computer.vhd`
+-   └ `cpu.vhd`
+-        └ `control_unit.vhd`
+-        └ `data_path.vhd`
+-             └ `alu.vhd`
+-   └ `memory.vhd`
+-        └ `rom_128x8_sync.vhd`
+-        └ `rw_96x8_sync.vhd`
 - Submitted screenshots showing successful compilation and simulation transcript as confirmation.
 
 ### Part 2: Basic Instruction Simulation
